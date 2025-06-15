@@ -54,12 +54,6 @@ Enhanced control over LLM responses
 Documentation
 Detailed documentation on system architecture, API endpoints, and configuration options is available in the User Guide.
 
-Getting Started
-Clone the Repository:
-
-git clone https://github.com/vectornguyen76/resume-ranking.git
-Configure Environment:
-
 Set up OpenAI API key:
 # analysis_service/.env
 OPENAI_API_KEY="your-key"
